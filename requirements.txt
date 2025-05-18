@@ -1,0 +1,23 @@
+# Core dependencies
+numpy>=1.21.0
+opencv-python>=4.5.3
+ffmpeg-python>=0.2.0
+
+# Deep Learning frameworks
+torch>=1.9.0
+torchvision>=0.10.0
+onnxruntime-gpu>=1.8.0  # For GPU acceleration
+onnx>=1.9.0
+
+# Optional: PyTorch Lightning (if using lightning models)
+pytorch-lightning>=1.4.0
+
+# Utilities
+tqdm>=4.62.0
+pillow>=8.3.0
+scikit-image>=0.18.0
+
+# For development
+pytest>=6.2.5
+black>=21.7b0
+flake8>=3.9.0 
