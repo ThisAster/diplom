@@ -124,7 +124,3 @@ ffplay udp://127.0.0.1:1234
    - Adjust the bilateral filter parameters
    - Use a higher quality model
    - Increase the bitrate in FFmpeg settings
-
-## License
-
-[Your License Here] 
